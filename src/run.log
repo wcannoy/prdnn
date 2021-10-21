@@ -1,0 +1,196 @@
+#train:(10000, 40), #valid:(10000, 40)
+[TRAIN] Epoch: 0, loss: 0.549520
+[TRAIN] Epoch: 1, loss: 0.488557
+[METHOD]: dense [RATIO] 0.01 [VALID] AUC: 0.7073
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:44052 nz_ratio:11.77%
+[WEIGHT] layer:1 total:90000 non_zero:30791 nz_ratio:34.21%
+[WEIGHT] layer:2 total:90000 non_zero:35822 nz_ratio:39.80%
+[WEIGHT] layer:3 total:300 non_zero:275 nz_ratio:91.67%
+[TRAIN] Epoch: 0, loss: 0.564457
+[TRAIN] Epoch: 1, loss: 0.524383
+[METHOD]: isnip [RATIO] 0.2 [VALID] AUC: 0.7152
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:21971 nz_ratio:5.87%
+[WEIGHT] layer:1 total:90000 non_zero:14709 nz_ratio:16.34%
+[WEIGHT] layer:2 total:90000 non_zero:18533 nz_ratio:20.59%
+[WEIGHT] layer:3 total:300 non_zero:257 nz_ratio:85.67%
+[TRAIN] Epoch: 0, loss: 0.573575
+[TRAIN] Epoch: 1, loss: 0.533823
+[METHOD]: isnip [RATIO] 0.1 [VALID] AUC: 0.7105
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:11347 nz_ratio:3.03%
+[WEIGHT] layer:1 total:90000 non_zero:7177 nz_ratio:7.97%
+[WEIGHT] layer:2 total:90000 non_zero:8992 nz_ratio:9.99%
+[WEIGHT] layer:3 total:300 non_zero:219 nz_ratio:73.00%
+[TRAIN] Epoch: 0, loss: 0.582061
+[TRAIN] Epoch: 1, loss: 0.541606
+[METHOD]: isnip [RATIO] 0.05 [VALID] AUC: 0.7034
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2491 nz_ratio:0.67%
+[WEIGHT] layer:1 total:90000 non_zero:1060 nz_ratio:1.18%
+[WEIGHT] layer:2 total:90000 non_zero:1862 nz_ratio:2.07%
+[WEIGHT] layer:3 total:300 non_zero:134 nz_ratio:44.67%
+[TRAIN] Epoch: 0, loss: 0.624438
+[TRAIN] Epoch: 1, loss: 0.568664
+[METHOD]: isnip [RATIO] 0.01 [VALID] AUC: 0.6587
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:52531 nz_ratio:14.03%
+[WEIGHT] layer:1 total:90000 non_zero:26335 nz_ratio:29.26%
+[WEIGHT] layer:2 total:90000 non_zero:31809 nz_ratio:35.34%
+[WEIGHT] layer:3 total:300 non_zero:265 nz_ratio:88.33%
+[TRAIN] Epoch: 0, loss: 0.561776
+[TRAIN] Epoch: 1, loss: 0.523846
+[METHOD]: igrasp [RATIO] 0.2 [VALID] AUC: 0.7172
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:28503 nz_ratio:7.61%
+[WEIGHT] layer:1 total:90000 non_zero:11707 nz_ratio:13.01%
+[WEIGHT] layer:2 total:90000 non_zero:15028 nz_ratio:16.70%
+[WEIGHT] layer:3 total:300 non_zero:232 nz_ratio:77.33%
+[TRAIN] Epoch: 0, loss: 0.571986
+[TRAIN] Epoch: 1, loss: 0.532665
+[METHOD]: igrasp [RATIO] 0.1 [VALID] AUC: 0.7111
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:14184 nz_ratio:3.79%
+[WEIGHT] layer:1 total:90000 non_zero:5228 nz_ratio:5.81%
+[WEIGHT] layer:2 total:90000 non_zero:8134 nz_ratio:9.04%
+[WEIGHT] layer:3 total:300 non_zero:189 nz_ratio:63.00%
+[TRAIN] Epoch: 0, loss: 0.580490
+[TRAIN] Epoch: 1, loss: 0.537605
+[METHOD]: igrasp [RATIO] 0.05 [VALID] AUC: 0.7059
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2882 nz_ratio:0.77%
+[WEIGHT] layer:1 total:90000 non_zero:803 nz_ratio:0.89%
+[WEIGHT] layer:2 total:90000 non_zero:1756 nz_ratio:1.95%
+[WEIGHT] layer:3 total:300 non_zero:106 nz_ratio:35.33%
+[TRAIN] Epoch: 0, loss: 0.629319
+[TRAIN] Epoch: 1, loss: 0.561090
+[METHOD]: igrasp [RATIO] 0.01 [VALID] AUC: 0.6795
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:46097 nz_ratio:12.31%
+[WEIGHT] layer:1 total:90000 non_zero:32673 nz_ratio:36.30%
+[WEIGHT] layer:2 total:90000 non_zero:31946 nz_ratio:35.50%
+[WEIGHT] layer:3 total:300 non_zero:224 nz_ratio:74.67%
+[TRAIN] Epoch: 0, loss: 0.569540
+[TRAIN] Epoch: 1, loss: 0.511011
+[METHOD]: synflow [RATIO] 0.2 [VALID] AUC: 0.7164
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:21682 nz_ratio:5.79%
+[WEIGHT] layer:1 total:90000 non_zero:15949 nz_ratio:17.72%
+[WEIGHT] layer:2 total:90000 non_zero:17643 nz_ratio:19.60%
+[WEIGHT] layer:3 total:300 non_zero:196 nz_ratio:65.33%
+[TRAIN] Epoch: 0, loss: 0.582572
+[TRAIN] Epoch: 1, loss: 0.518628
+[METHOD]: synflow [RATIO] 0.1 [VALID] AUC: 0.7155
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:8822 nz_ratio:2.36%
+[WEIGHT] layer:1 total:90000 non_zero:8361 nz_ratio:9.29%
+[WEIGHT] layer:2 total:90000 non_zero:10395 nz_ratio:11.55%
+[WEIGHT] layer:3 total:300 non_zero:157 nz_ratio:52.33%
+[TRAIN] Epoch: 0, loss: 0.598085
+[TRAIN] Epoch: 1, loss: 0.530153
+[METHOD]: synflow [RATIO] 0.05 [VALID] AUC: 0.7107
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2794 nz_ratio:0.75%
+[WEIGHT] layer:1 total:90000 non_zero:1302 nz_ratio:1.45%
+[WEIGHT] layer:2 total:90000 non_zero:1329 nz_ratio:1.48%
+[WEIGHT] layer:3 total:300 non_zero:122 nz_ratio:40.67%
+[TRAIN] Epoch: 0, loss: 0.639666
+[TRAIN] Epoch: 1, loss: 0.553900
+[METHOD]: synflow [RATIO] 0.01 [VALID] AUC: 0.7064
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:44052 nz_ratio:11.77%
+[WEIGHT] layer:1 total:90000 non_zero:30791 nz_ratio:34.21%
+[WEIGHT] layer:2 total:90000 non_zero:35822 nz_ratio:39.80%
+[WEIGHT] layer:3 total:300 non_zero:275 nz_ratio:91.67%
+[TRAIN] Epoch: 0, loss: 0.564804
+[TRAIN] Epoch: 1, loss: 0.515885
+[METHOD]: fsnip [RATIO] 0.2 [VALID] AUC: 0.7255
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:21971 nz_ratio:5.87%
+[WEIGHT] layer:1 total:90000 non_zero:14709 nz_ratio:16.34%
+[WEIGHT] layer:2 total:90000 non_zero:18533 nz_ratio:20.59%
+[WEIGHT] layer:3 total:300 non_zero:257 nz_ratio:85.67%
+[TRAIN] Epoch: 0, loss: 0.573583
+[TRAIN] Epoch: 1, loss: 0.525031
+[METHOD]: fsnip [RATIO] 0.1 [VALID] AUC: 0.7169
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:11347 nz_ratio:3.03%
+[WEIGHT] layer:1 total:90000 non_zero:7177 nz_ratio:7.97%
+[WEIGHT] layer:2 total:90000 non_zero:8992 nz_ratio:9.99%
+[WEIGHT] layer:3 total:300 non_zero:219 nz_ratio:73.00%
+[TRAIN] Epoch: 0, loss: 0.589010
+[TRAIN] Epoch: 1, loss: 0.530411
+[METHOD]: fsnip [RATIO] 0.05 [VALID] AUC: 0.7144
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2491 nz_ratio:0.67%
+[WEIGHT] layer:1 total:90000 non_zero:1060 nz_ratio:1.18%
+[WEIGHT] layer:2 total:90000 non_zero:1862 nz_ratio:2.07%
+[WEIGHT] layer:3 total:300 non_zero:134 nz_ratio:44.67%
+[TRAIN] Epoch: 0, loss: 0.634566
+[TRAIN] Epoch: 1, loss: 0.549216
+[METHOD]: fsnip [RATIO] 0.01 [VALID] AUC: 0.7073
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:52531 nz_ratio:14.03%
+[WEIGHT] layer:1 total:90000 non_zero:26335 nz_ratio:29.26%
+[WEIGHT] layer:2 total:90000 non_zero:31809 nz_ratio:35.34%
+[WEIGHT] layer:3 total:300 non_zero:265 nz_ratio:88.33%
+[TRAIN] Epoch: 0, loss: 0.562716
+[TRAIN] Epoch: 1, loss: 0.512434
+[METHOD]: fgrasp [RATIO] 0.2 [VALID] AUC: 0.7255
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:28503 nz_ratio:7.61%
+[WEIGHT] layer:1 total:90000 non_zero:11707 nz_ratio:13.01%
+[WEIGHT] layer:2 total:90000 non_zero:15028 nz_ratio:16.70%
+[WEIGHT] layer:3 total:300 non_zero:232 nz_ratio:77.33%
+[TRAIN] Epoch: 0, loss: 0.571007
+[TRAIN] Epoch: 1, loss: 0.520122
+[METHOD]: fgrasp [RATIO] 0.1 [VALID] AUC: 0.7207
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:14184 nz_ratio:3.79%
+[WEIGHT] layer:1 total:90000 non_zero:5228 nz_ratio:5.81%
+[WEIGHT] layer:2 total:90000 non_zero:8134 nz_ratio:9.04%
+[WEIGHT] layer:3 total:300 non_zero:189 nz_ratio:63.00%
+[TRAIN] Epoch: 0, loss: 0.584734
+[TRAIN] Epoch: 1, loss: 0.527860
+[METHOD]: fgrasp [RATIO] 0.05 [VALID] AUC: 0.7155
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2882 nz_ratio:0.77%
+[WEIGHT] layer:1 total:90000 non_zero:803 nz_ratio:0.89%
+[WEIGHT] layer:2 total:90000 non_zero:1756 nz_ratio:1.95%
+[WEIGHT] layer:3 total:300 non_zero:106 nz_ratio:35.33%
+[TRAIN] Epoch: 0, loss: 0.637965
+[TRAIN] Epoch: 1, loss: 0.547274
+[METHOD]: fgrasp [RATIO] 0.01 [VALID] AUC: 0.7064
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:46097 nz_ratio:12.31%
+[WEIGHT] layer:1 total:90000 non_zero:32673 nz_ratio:36.30%
+[WEIGHT] layer:2 total:90000 non_zero:31946 nz_ratio:35.50%
+[WEIGHT] layer:3 total:300 non_zero:224 nz_ratio:74.67%
+[TRAIN] Epoch: 0, loss: 0.566948
+[TRAIN] Epoch: 1, loss: 0.515305
+[METHOD]: fsynflow [RATIO] 0.2 [VALID] AUC: 0.7249
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:21682 nz_ratio:5.79%
+[WEIGHT] layer:1 total:90000 non_zero:15949 nz_ratio:17.72%
+[WEIGHT] layer:2 total:90000 non_zero:17643 nz_ratio:19.60%
+[WEIGHT] layer:3 total:300 non_zero:196 nz_ratio:65.33%
+[TRAIN] Epoch: 0, loss: 0.580377
+[TRAIN] Epoch: 1, loss: 0.523413
+[METHOD]: fsynflow [RATIO] 0.1 [VALID] AUC: 0.7218
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:8822 nz_ratio:2.36%
+[WEIGHT] layer:1 total:90000 non_zero:8361 nz_ratio:9.29%
+[WEIGHT] layer:2 total:90000 non_zero:10395 nz_ratio:11.55%
+[WEIGHT] layer:3 total:300 non_zero:157 nz_ratio:52.33%
+[TRAIN] Epoch: 0, loss: 0.596928
+[TRAIN] Epoch: 1, loss: 0.530547
+[METHOD]: fsynflow [RATIO] 0.05 [VALID] AUC: 0.7175
+#train:(10000, 40), #valid:(10000, 40)
+[WEIGHT] layer:0 total:374400 non_zero:2794 nz_ratio:0.75%
+[WEIGHT] layer:1 total:90000 non_zero:1302 nz_ratio:1.45%
+[WEIGHT] layer:2 total:90000 non_zero:1329 nz_ratio:1.48%
+[WEIGHT] layer:3 total:300 non_zero:122 nz_ratio:40.67%
+[TRAIN] Epoch: 0, loss: 0.641337
+[TRAIN] Epoch: 1, loss: 0.549017
+[METHOD]: fsynflow [RATIO] 0.01 [VALID] AUC: 0.7091
