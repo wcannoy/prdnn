@@ -1,4 +1,4 @@
-# patdnn
+# prdnn
 pruning neural network for tabular data classification
 
 ## Installation
